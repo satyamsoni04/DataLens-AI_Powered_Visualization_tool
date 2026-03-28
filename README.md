@@ -43,7 +43,7 @@ npm install
 npm run dev
 ```
 
-The app will be available at `(https://datalens-ai-visualizationtool-satyamsoni.replit.app)`.
+The app will be available at [https://datalens-ai-visualizationtool-satyamsoni.replit.app](https://datalens-ai-visualizationtool-satyamsoni.replit.app).
 
 ## Build for Production
 
